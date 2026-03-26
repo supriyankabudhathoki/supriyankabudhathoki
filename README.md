@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! I'm a passionate frontend developer currently focused on building modern, responsive, and user-friendly web applications.<br><br>🚀 I’ve been actively working with technologies like JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, along with core HTML and CSS. I enjoy turning ideas into interactive digital experiences and continuously improving my development skills.<br><br>💡 My current goal is to become a highly skilled frontend developer by mastering best practices, performance optimization, and clean UI/UX design.
+#About Me:
+Hi there! I'm a passionate frontend developer currently focused on building modern, responsive, and user-friendly web applications.<br><br> I’ve been actively working with technologies like JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, along with core HTML and CSS. I enjoy turning ideas into interactive digital experiences and continuously improving my development skills.<br><br> My current goal is to become a highly skilled frontend developer by mastering best practices, performance optimization, and clean UI/UX design.
 
 
 ## 🌐 Socials:
