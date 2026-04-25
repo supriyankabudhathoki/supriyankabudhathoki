@@ -1,10 +1,5 @@
 #   About Me:
-Hi there! I'm a passionate frontend developer currently focused on building modern, responsive, and user-friendly web applications.
-
-🚀 I’ve been actively working with technologies like JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, along with core HTML and CSS. I enjoy turning ideas into interactive digital experiences and continuously improving my development skills.
-
-💡 My current goal is to become a highly skilled frontend developer by mastering best practices, performance optimization, and clean UI/UX design.
-
+Passionate Learner
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/supriyankabudhathoki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supriyankabudhathoki) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/supriyankabudhathoki) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@supriyanka_YT.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supri123@gmail.com) 
