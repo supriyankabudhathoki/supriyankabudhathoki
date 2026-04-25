@@ -18,9 +18,9 @@ I write code, break it, fix it, and ship it.
 
 ---
 
+<div align="center">
 
-
-## //    My Tech Stack
+##  My Tech Stack
 
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&label=)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&label=)
@@ -65,6 +65,8 @@ I write code, break it, fix it, and ship it.
 ![](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black&label=)
 ![](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&label=)
 ---
+</div>
+
 
 ##  github
 
@@ -94,11 +96,12 @@ I write code, break it, fix it, and ship it.
 
 ---
 
-## // quote i live by
+<div align="center">
+##   Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
+</div>
 
 ---
 
