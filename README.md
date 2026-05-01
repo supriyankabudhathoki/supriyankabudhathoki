@@ -82,8 +82,6 @@ I write code, break it, fix it, and ship it.
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=supriyankabudhathoki&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
-
 </div>
 
 ##  top contributed repos
